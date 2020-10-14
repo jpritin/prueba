@@ -1,3 +1,7 @@
+# Esto es una nueva imagen
+
+![Tux](/img/tux.png)
+
 # prueba
 prueba de github
 
